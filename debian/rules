@@ -1,0 +1,22 @@
+#!/usr/bin/make -f
+  
+include /usr/share/cdbs/1/rules/debhelper.mk
+
+create-bg::
+	# requires inkscape to be installed
+	@if [ ! -x /usr/bin/inkscape ]; then \
+		echo "ERROR: inkscape not installed!" ; \
+		false ; \
+	fi
+	
+	# create 1600x1200 wallpaper bitmaps from SVG
+	inkscape --export-width=1600 \
+		--export-height=1200 \
+		--export-png="$(CURDIR)/sidux-nyx-1600x1200.png" \
+			$(CURDIR)/.source/sidux-nyx.svg ;
+
+	# create 1920x1200 wallpaper bitmaps from SVG
+	# XXX: todo, this may require a separate svg or some coord/res trickery 
+
+	# create 1280x1024 wallpaper bitmaps from SVG
+	# XXX: todo, this may require a separate svg or some coord/res trickery 
