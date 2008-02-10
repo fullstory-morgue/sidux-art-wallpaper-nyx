@@ -2,6 +2,9 @@ sidux-art-wallpaper-nyx (0.0) unstable; urgency=low
 
   * Initial Release.
   * reduce contrast on all elements
-  * add D-S-P updates 
+  * add D-S-P updates
+  * add more d-s-p mods
+  * change to svg instead of svgz 
+  	(bigger initial file, but commits are now text diffs)
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 17:30:38 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:10:26 +1100
