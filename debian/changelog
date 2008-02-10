@@ -4,7 +4,8 @@ sidux-art-wallpaper-nyx (0.0) unstable; urgency=low
   * reduce contrast on all elements
   * add D-S-P updates
   * add more d-s-p mods
-  * change to svg instead of svgz 
+  * change to svg instead of svgz
   	(bigger initial file, but commits are now text diffs)
+  * add moon shaped i on logo 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:10:26 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:31:16 +1100
