@@ -1,11 +1,16 @@
-sidux-art-wallpaper-nyx (0.0) unstable; urgency=low
+sidux-art-wallpaper-nyx (0.1) unstable; urgency=low
 
+  [ Bernard Gray ]
   * Initial Release.
   * reduce contrast on all elements
   * add D-S-P updates
   * add more d-s-p mods
   * change to svg instead of svgz
-  	(bigger initial file, but commits are now text diffs)
-  * add moon shaped i on logo 
+    bigger initial file, but commits are now text diffs)
+  * add moon shaped i on logo
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sun, 10 Feb 2008 21:31:16 +1100
+  [ Stefan Lippers-Hollmann ]
+  * minor packaging clean-up.
+  * move source into the light.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 10 Feb 2008 17:17:04 +0100

@@ -13,10 +13,11 @@ create-bg::
 	inkscape --export-width=1600 \
 		--export-height=1200 \
 		--export-png="$(CURDIR)/sidux-nyx-1600x1200.png" \
-			$(CURDIR)/.source/sidux-nyx.svg ;
-
+			$(CURDIR)/sidux-nyx.svg ;
+	
 	# create 1920x1200 wallpaper bitmaps from SVG
 	# XXX: todo, this may require a separate svg or some coord/res trickery 
-
+	
 	# create 1280x1024 wallpaper bitmaps from SVG
-	# XXX: todo, this may require a separate svg or some coord/res trickery 
+	# XXX: todo, this may require a separate svg or some coord/res trickery
+
