@@ -1,12 +1,19 @@
-sidux-art-wallpaper-nyx (0.2) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+  The cdbs is retarded release.
 
   [ Bernard Gray ]
-  * update sidebar in source svg 
+  * update sidebar in source svg.
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 11 Feb 2008 18:12:09 +1100
+  [ Stefan Lippers-Hollmann ]
+  * always regenerate PNGs in the build/$(DEB_SOURCE_PACKAGE) target; this
+    package only provides some graphics based svg sources, so this is the only
+    sane choice. 
+    Unfortunately cdbs links up build/$(DEB_SOURCE_PACKAGE) to "build" and 
+    "binary" targets, which means the image gets generated twice while
+    building...
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 13 Feb 2008 00:16:25 +0100
 
 sidux-art-wallpaper-nyx (0.1) unstable; urgency=low
 
