@@ -1,8 +1,12 @@
 sidux-art-wallpaper-nyx (0.3) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 13 Feb 2008 00:23:32 +0100
+  [ Bernard Gray ]
+  * update logo to include an orbit (would like feedback before releasing)  
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 Feb 2008 17:59:58 +1100
 
 sidux-art-wallpaper-nyx (0.2) unstable; urgency=low
 
