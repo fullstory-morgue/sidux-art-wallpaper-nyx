@@ -1,10 +1,6 @@
-sidux-art-wallpaper-nyx (0.3) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
-  * update logo to include an orbit (would like feedback before releasing)  
+  * update logo to include an orbit.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Sun, 17 Feb 2008 17:59:58 +1100
 
