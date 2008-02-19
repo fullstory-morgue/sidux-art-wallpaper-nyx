@@ -4,11 +4,12 @@ sidux-art-wallpaper-nyx (0.4) UNRELEASED; urgency=low
   * NOT RELEASED YET
 
   [ Bernard Gray ]
-  * update to dsp final release 
+  * update to dsp final release
    - new logo (based on old logo)
    - no more star-pox
+  * cleanup extraneous off-canvas junk, defs
 
- -- Bernard Gray <bernard.gray@gmail.com>  Tue, 19 Feb 2008 23:03:45 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 20 Feb 2008 07:51:11 +1100
 
 sidux-art-wallpaper-nyx (0.3) unstable; urgency=low
 
