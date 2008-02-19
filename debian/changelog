@@ -1,8 +1,14 @@
 sidux-art-wallpaper-nyx (0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 18 Feb 2008 13:23:07 +0100
+  [ Bernard Gray ]
+  * update to dsp final release 
+   - new logo (based on old logo)
+   - no more star-pox
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Tue, 19 Feb 2008 23:03:45 +1100
 
 sidux-art-wallpaper-nyx (0.3) unstable; urgency=low
 
