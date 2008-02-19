@@ -8,8 +8,10 @@ sidux-art-wallpaper-nyx (0.4) UNRELEASED; urgency=low
    - new logo (based on old logo)
    - no more star-pox
   * cleanup extraneous off-canvas junk, defs
+  * add widescreen wallpaper source
+  * update debian/install and debian/rules to cater for wide option
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 20 Feb 2008 07:51:11 +1100
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 20 Feb 2008 08:13:20 +1100
 
 sidux-art-wallpaper-nyx (0.3) unstable; urgency=low
 

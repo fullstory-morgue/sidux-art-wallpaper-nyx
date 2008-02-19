@@ -16,7 +16,11 @@ build/$(DEB_SOURCE_PACKAGE)::
 			"$(CURDIR)/sidux-nyx.svg" ;
 	
 	# create 1920x1200 wallpaper bitmaps from SVG
-	# XXX: todo, this may require a separate svg or some coord/res trickery 
+	inkscape --export-width=1920 \
+		--export-height=1200 \
+		--export-png="$(CURDIR)/sidux-nyx-1920x1200.png" \
+			"$(CURDIR)/sidux-nyx-wide.svg" ;
+	
 	
 	# create 1280x1024 wallpaper bitmaps from SVG
 	# XXX: todo, this may require a separate svg or some coord/res trickery
