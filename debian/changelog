@@ -1,8 +1,12 @@
 sidux-art-wallpaper-nyx (0.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 20 Feb 2008 13:19:58 +0100
+  [ Bernard Gray ]
+  * remove extraneous star on lip 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Feb 2008 08:32:10 +1100
 
 sidux-art-wallpaper-nyx (0.4) unstable; urgency=low
 
