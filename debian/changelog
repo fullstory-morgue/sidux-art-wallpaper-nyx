@@ -1,9 +1,5 @@
-sidux-art-wallpaper-nyx (0.4) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update to dsp final release
    - new logo (based on old logo)
    - no more star-pox
