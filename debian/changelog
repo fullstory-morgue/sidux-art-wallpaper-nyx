@@ -1,12 +1,12 @@
-sidux-art-wallpaper-nyx (0.5) UNRELEASED; urgency=low
-
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
+sidux-art-wallpaper-nyx (0.5) unstable; urgency=low
 
   [ Bernard Gray ]
-  * remove extraneous star on lip 
+  * remove extraneous star on lip
 
- -- Bernard Gray <bernard.gray@gmail.com>  Thu, 21 Feb 2008 08:32:10 +1100
+  [ Stefan Lippers-Hollmann ]
+  * appease lintian and write (C) as © in debian/copyright.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 21 Feb 2008 00:19:14 +0100
 
 sidux-art-wallpaper-nyx (0.4) unstable; urgency=low
 
