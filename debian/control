@@ -9,6 +9,8 @@ Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-wallpaper-nyx/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-wallpaper-nyx/trunk/
 
 Package: sidux-art-wallpaper-nyx
+Provides: sidux-art-wallpaper-theme
+Conflicts: sidux-art-wallpaper-nyx-edu
 Architecture: all
 Description: sidux wallpaper for 2008-01 release
  the default wallpaper for the 2008-01 (Nyx)
