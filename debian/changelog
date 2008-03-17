@@ -1,8 +1,12 @@
 sidux-art-wallpaper-nyx (0.8) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 10 Mar 2008 01:03:54 +0100
+  [ Bernard Gray ]
+  * update wallpaper sources to logo that doesn't collide with icons 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 17 Mar 2008 22:43:55 +1100
 
 sidux-art-wallpaper-nyx (0.7) unstable; urgency=low
 
