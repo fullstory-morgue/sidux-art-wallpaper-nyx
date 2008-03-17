@@ -1,9 +1,5 @@
-sidux-art-wallpaper-nyx (0.8) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.8) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update wallpaper sources to logo that doesn't collide with icons 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 17 Mar 2008 22:43:55 +1100
