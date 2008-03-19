@@ -1,9 +1,5 @@
-sidux-art-wallpaper-nyx (0.9) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.9) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * add ttf-sidux as build-dep to avoid smelly pile I accidentally got
     uploaded last night... 
 
