@@ -1,9 +1,5 @@
-sidux-art-wallpaper-nyx (0.10) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.10) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * widescreen wallpaper did not export logo correctly, attempted to fix 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 20 Mar 2008 12:46:52 +1100
