@@ -13,7 +13,7 @@
    height="1200"
    id="svg5550"
    sodipodi:version="0.32"
-   inkscape:version="0.45+devel"
+   inkscape:version="0.46+devel"
    sodipodi:docbase="/home/bernie/svn/svn.berlios.de-fullstory/sidux-art-wallpaper-gaia/trunk/.source"
    sodipodi:docname="sidux-nyx-wide.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -30,10 +30,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="0"
      inkscape:zoom="0.52833333"
-     inkscape:cx="625.93059"
+     inkscape:cx="408.26497"
      inkscape:cy="509.07085"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer16"
      inkscape:window-width="1398"
      inkscape:window-height="840"
      inkscape:window-x="2"
@@ -65,6 +65,13 @@
   </sodipodi:namedview>
   <defs
      id="defs5552">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1920 : 600 : 1"
+       inkscape:persp3d-origin="960 : 400 : 1"
+       id="perspective5941" />
     <filter
        inkscape:collect="always"
        x="-0.25280899"
@@ -76,58 +83,6 @@
          inkscape:collect="always"
          stdDeviation="4.6348316"
          id="feGaussianBlur3604" />
-    </filter>
-    <filter
-       id="filter8125"
-       height="1.5338043"
-       y="-0.26690212"
-       width="1.5328633"
-       x="-0.26643163"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur8127"
-         stdDeviation="3.9779066"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter6712"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur6714"
-         stdDeviation="0.93998754"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter6664"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur6666"
-         stdDeviation="0.21047761"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter6192"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur6194"
-         stdDeviation="0.86145189"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter3517"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3519"
-         stdDeviation="1.6210035"
-         inkscape:collect="always" />
-    </filter>
-    <filter
-       id="filter3529"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3531"
-         stdDeviation="2.7101151"
-         inkscape:collect="always" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -297,18 +252,6 @@
        id="linearGradient5467"
        xlink:href="#linearGradient3817"
        inkscape:collect="always" />
-    <filter
-       height="1.4993565"
-       y="-0.24967824"
-       width="1.1941127"
-       x="-0.097056337"
-       id="filter7511"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur7513"
-         stdDeviation="27.415177"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        y2="-214.88455"
        x2="373.15903"
@@ -9732,17 +9675,17 @@
        transform="matrix(1.2580589,0,0,0.9766602,-45.63355,672.84353)" />
   </g>
   <g
-     style="opacity:0.65495211;display:inline"
+     style="opacity:1;display:inline"
      inkscape:label="logo#1"
      id="layer16"
      inkscape:groupmode="layer">
     <path
-       style="opacity:0.65495211;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95553809;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5545)"
+       style="opacity:0.65495210999999998;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.95553809000000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5545)"
        d="M 178.5,830.97016 C 151.7375,831.32353 110.12523,845.99868 71.8125,868.84516 L 80.09375,866.06391 C 115.80423,846.09104 153.21656,833.43764 178.0625,832.97016 L 183.65625,831.09516 C 182.00949,830.9897 180.28417,830.9466 178.5,830.97016 z"
        id="path5555"
        transform="matrix(1.0320108,0,0,1.0320108,46.871804,-40.94496)" />
     <g
-       style="opacity:0.65495211"
+       style="opacity:0.65495210999999998"
        transform="matrix(0.8519438,0,0,-0.8519438,326.23136,1268.9815)"
        id="g7360"
        mask="url(#mask7418)">
@@ -9755,7 +9698,7 @@
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
            sodipodi:type="arc"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67402661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67402660999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
            id="path7364"
            sodipodi:cx="907.5"
            sodipodi:cy="287.91666"
@@ -9800,7 +9743,7 @@
            height="1052.3622"
            style="fill:#ff0000;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none" />
         <use
-           style="fill:#445458;fill-opacity:0.65490196;stroke:#ffffff;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#445458;fill-opacity:0.65490196000000001;stroke:#ffffff;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
            height="1052.3622"
            width="744.09448"
            transform="translate(60,298)"
@@ -9816,7 +9759,7 @@
            transform="translate(60,298)"
            width="744.09448"
            height="1052.3622"
-           style="opacity:0.85407727;fill:url(#linearGradient7394);fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+           style="opacity:0.85407727000000000;fill:url(#linearGradient7394);fill-opacity:1;stroke:#ffffff;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
            clip-path="url(#clipPath4320)" />
       </g>
       <g
@@ -9841,7 +9784,7 @@
            inkscape:export-xdpi="90"
            inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
            sodipodi:type="arc"
-           style="opacity:1;fill:#333f42;fill-opacity:1;stroke:#000000;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+           style="opacity:1;fill:#333f42;fill-opacity:1;stroke:#000000;stroke-width:2.90000010000000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
            id="path7382"
            sodipodi:cx="893.33331"
            sodipodi:cy="100"
@@ -9902,7 +9845,7 @@
            sodipodi:cy="212.70215"
            sodipodi:cx="802.86084"
            id="path7390"
-           style="opacity:0.85393258;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+           style="opacity:0.85393258000000005;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
            sodipodi:type="arc" />
         <path
            inkscape:export-ydpi="90"
@@ -9918,7 +9861,7 @@
            sodipodi:cy="287.91666"
            sodipodi:cx="907.5"
            id="path7392"
-           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67402661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.67402660999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
            sodipodi:type="arc" />
       </g>
     </g>
@@ -9932,13 +9875,13 @@
        height="1052.3622"
        style="opacity:0.65495210999999998;fill:#000000;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4511)" />
     <g
-       style="opacity:0.65495211"
+       style="opacity:0.65495210999999998"
        inkscape:label="Master"
        id="g6842"
        transform="matrix(1.0320108,0,0,1.0320108,-637.14437,-268.53969)">
       <text
          xml:space="preserve"
-         style="font-size:305.04656982px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill-opacity:1;font-family:Sidux;-inkscape-font-specification:Sidux Bold"
+         style="font-size:305.04656982000000198px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill-opacity:1;font-family:Sidux;-inkscape-font-specification:Sidux Bold"
          x="10.649973"
          y="-14.242644"
          id="text2389"><tspan
@@ -9946,11 +9889,11 @@
            id="tspan2391"
            x="10.649973"
            y="-14.242644"
-           style="letter-spacing:-6.97995424"
+           style="letter-spacing:-6.97995423999999964"
            dx="0 17.449883 0 20.13448 17.449883">sidux</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:60.10633087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         style="font-size:60.10633087000001495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          x="-262.56598"
          y="-81.547867"
          id="text5135"><tspan
@@ -9962,7 +9905,7 @@
          id="text5145"
          y="214.45213"
          x="-267.02701"
-         style="font-size:60.10633087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         style="font-size:60.10633087000001495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="214.45213"
            x="-267.02701"
@@ -9970,7 +9913,7 @@
            sodipodi:role="line">Clones -&gt;</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:60.10633087px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+         style="font-size:60.10633087000001495px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          x="-7.9358516"
          y="554.45215"
          id="text5149"><tspan
@@ -9983,7 +9926,7 @@
        id="layer2"
        inkscape:label="Clones"
        transform="matrix(0.8519438,0,0,0.8519438,35.612847,744.4364)"
-       style="opacity:0.65495211;display:inline">
+       style="opacity:0.65495210999999998;display:inline">
       <use
          style="fill:#000000;stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter4326)"
          height="1052.3622"
@@ -10012,7 +9955,7 @@
          height="1052.3622"
          style="fill:#ff0000;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none" />
       <use
-         style="fill:#445458;fill-opacity:0.65490196;stroke:#ffffff;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#445458;fill-opacity:0.65490196000000001;stroke:#ffffff;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
          height="1052.3622"
          width="744.09448"
          transform="translate(60,298)"
@@ -10028,7 +9971,7 @@
          transform="translate(60,298)"
          width="744.09448"
          height="1052.3622"
-         style="opacity:0.85407727;fill:url(#linearGradient7424);fill-opacity:1;stroke:#ffffff;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none"
+         style="opacity:0.85407727000000000;fill:url(#linearGradient7424);fill-opacity:1;stroke:#ffffff;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
          clip-path="url(#clipPath4320)" />
     </g>
     <path
@@ -10039,7 +9982,7 @@
        sodipodi:cy="100"
        sodipodi:cx="893.33331"
        id="path4987"
-       style="opacity:0.65495211;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter3761)"
+       style="opacity:0.65495210999999998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter3761)"
        sodipodi:type="arc"
        inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
        inkscape:export-xdpi="90"
@@ -10052,7 +9995,7 @@
        sodipodi:cy="100"
        sodipodi:cx="893.33331"
        id="path4989"
-       style="opacity:0.65495211;fill:#333f42;fill-opacity:1;stroke:#000000;stroke-width:2.9000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:0.65495210999999998;fill:#333f42;fill-opacity:1;stroke:#000000;stroke-width:2.90000010000000019;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        sodipodi:type="arc"
        inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
        inkscape:export-xdpi="90"
@@ -10065,14 +10008,14 @@
        sodipodi:cy="100"
        sodipodi:cx="893.33331"
        id="path4991"
-       style="opacity:0.65495211;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:0.65495210999999998;fill:#53676c;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        sodipodi:type="arc"
        inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.65495211;fill:url(#linearGradient5467);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:0.65495210999999998;fill:url(#linearGradient5467);fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="path4993"
        sodipodi:cx="893.33331"
        sodipodi:cy="100"
@@ -10091,14 +10034,14 @@
        sodipodi:cy="100"
        sodipodi:cx="893.33331"
        id="path4995"
-       style="opacity:0.65495211;fill:url(#radialGradient5469);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter3602)"
+       style="opacity:0.65495210999999998;fill:url(#radialGradient5469);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter3602)"
        sodipodi:type="arc"
        inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.55928494;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:0.55928493999999995;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="path4997"
        sodipodi:cx="802.86084"
        sodipodi:cy="212.70215"
@@ -10126,16 +10069,16 @@
        sodipodi:cy="287.91666"
        sodipodi:cx="907.5"
        id="path5478"
-       style="opacity:0.65495211;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.85073495;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5512)"
+       style="opacity:0.65495210999999998;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.85073494999999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5512)"
        sodipodi:type="arc" />
     <path
-       style="opacity:0.65495211;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79228747;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5525)"
+       style="opacity:0.65495210999999998;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79228746999999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline;filter:url(#filter5525)"
        d="M 194.03125,854.15625 C 184.50854,865.71787 165.5473,879.62026 140.625,892.25 C 96.318696,914.70285 49.889781,924.64866 36.96875,914.46875 C 32.139346,910.66386 32.229574,904.89464 37.0625,897.625 C 29.8829,906.49047 28.883523,913.46802 34.4375,917.84375 C 47.358531,928.02366 93.818703,918.04664 138.125,895.59375 C 165.5031,881.7195 185.65112,866.31109 194.03125,854.15625 z"
        id="path5516"
        transform="matrix(1.0320108,0,0,1.0320108,46.871804,-40.94496)" />
     <path
        sodipodi:type="arc"
-       style="opacity:0.65495211;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.67402661;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       style="opacity:0.65495210999999998;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.67402660999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
        id="path4658"
        sodipodi:cx="907.5"
        sodipodi:cy="287.91666"
@@ -10153,13 +10096,13 @@
        id="layer8"
        inkscape:label="Orbit-below"
        transform="matrix(0.8519438,0,0,0.8519438,43.734555,781.58195)"
-       style="opacity:0.65495211;stroke:#ffffff">
+       style="opacity:0.65495210999999998;stroke:#ffffff">
       <path
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="/home/bernie/software/sidux-art/gaia/ksplash-logo.png"
          sodipodi:type="arc"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.67378205;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.67378205000000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
          id="path4606"
          sodipodi:cx="907.5"
          sodipodi:cy="287.91666"
