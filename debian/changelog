@@ -1,9 +1,5 @@
-sidux-art-wallpaper-nyx (0.11) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.11) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * fix wide wallpaper - logo reflection missing, too transparent
 
  -- Bernard Gray <bernard.gray@gmail.com>  Wed, 14 May 2008 13:34:09 +1000
