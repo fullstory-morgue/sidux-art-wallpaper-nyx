@@ -1,8 +1,8 @@
-sidux-art-wallpaper-nyx (0.12) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.12) unstable; urgency=low
 
-  * NOT RELEASED YET
+  * switch to the new dh implementation of debhelper 7.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 14 May 2008 17:22:31 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Wed, 21 May 2008 20:11:18 +0200
 
 sidux-art-wallpaper-nyx (0.11) unstable; urgency=low
 
