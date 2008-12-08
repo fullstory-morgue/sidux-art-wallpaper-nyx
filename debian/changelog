@@ -1,9 +1,8 @@
-sidux-art-wallpaper-nyx (0.14) UNRELEASED; urgency=low
+sidux-art-wallpaper-nyx (0.14) unstable; urgency=low
 
-  * NOT RELEASED YET
   * make lintian happy and depend on ${misc:Depends}.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 03:01:59 +0100
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Dec 2008 23:41:03 +0100
 
 sidux-art-wallpaper-nyx (0.13) unstable; urgency=low
 
